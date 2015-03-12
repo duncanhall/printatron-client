@@ -1,0 +1,23 @@
+{
+  "name": "printatron-client",
+  "version": "0.1.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/duncanhall/printatron-client.git"
+  },
+  "author": "Duncan Hall <himself@duncanhall.net> (http://duncanhall.net/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duncanhall/printatron-client/issues"
+  },
+  "homepage": "https://github.com/duncanhall/printatron-client",
+  "dependencies": {
+    "socket.io-client": "^1.3.5"
+  }
+}
